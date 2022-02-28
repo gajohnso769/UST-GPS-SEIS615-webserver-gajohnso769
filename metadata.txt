@@ -1,0 +1,8 @@
+ip-172-31-28-194.ec2.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2022-02-28T17:00:13Z",
+  "InstanceProfileArn" : "arn:aws:iam::604819740313:instance-profile/Amazons3FullAccess",
+  "InstanceProfileId" : "AIPAYZUQQ22M3Y3BEQOZV"
+}
+webservers
